@@ -1,0 +1,14 @@
+2024-07-02 01:08:15,149 - Angara.PageObjects.commonPageObjects - INFO - log file cleared
+2024-07-02 01:08:15,153 - tests.e2e_flow - INFO - log file cleared
+2024-07-02 01:08:16,459 - Angara.PageObjects.commonPageObjects - INFO - Popup closed.
+2024-07-02 01:08:20,276 - tests.e2e_flow - INFO - Click on Pendents
+2024-07-02 01:08:24,253 - tests.e2e_flow - INFO - Click on first result
+2024-07-02 01:08:24,789 - tests.e2e_flow - INFO - Click on add to cart.
+2024-07-02 01:08:48,136 - tests.e2e_flow - INFO - Enter email: angaraindia@angara.in
+2024-07-02 01:08:48,446 - tests.e2e_flow - INFO - Enter First Name: Automation
+2024-07-02 01:08:48,621 - tests.e2e_flow - INFO - Enter Last Name: Testing
+2024-07-02 01:08:48,734 - tests.e2e_flow - INFO - Enter Address: random
+2024-07-02 01:08:48,859 - tests.e2e_flow - INFO - Enter City: random
+2024-07-02 01:08:49,080 - tests.e2e_flow - INFO - Enter Pin: 223104
+2024-07-02 01:08:49,245 - tests.e2e_flow - INFO - Enter Phone: 9773334551
+2024-07-02 01:08:49,383 - tests.e2e_flow - INFO - Test Passed: Reached checkout page.

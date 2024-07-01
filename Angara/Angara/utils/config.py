@@ -1,0 +1,11 @@
+base_url = "https://www.angara.in/"
+log_file_path = "../tests/test_log.log"
+Headless = False
+Driver = "chrome"
+email = "angaraindia@angara.in"
+first_name = "Automation"
+last_name = "Testing"
+address = 'random'
+city = 'random'
+pin = 223104
+phone = 9773334551
